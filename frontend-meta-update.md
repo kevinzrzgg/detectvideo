@@ -49,11 +49,12 @@ CHECK_PASS html=12 files=17
 
 ## Cloudflare Pages deployment
 
-Deployment command completed successfully:
+Deployment command completed successfully. The final deployment after commit/push is:
 
 ```text
 npx wrangler pages deploy dist --project-name=detectvideo --branch=main --commit-dirty=true
-Deployment complete: https://5287f5b3.detectvideo.pages.dev
+Deployment complete: https://d52ae6fe.detectvideo.pages.dev
+Source commit: bd77589
 ```
 
 ## Live verification evidence
@@ -62,7 +63,7 @@ Verified with a browser-like User-Agent and `Cache-Control: no-cache` after depl
 
 | URL | HTTP | Title length | Description length | Updated metadata |
 |---|---:|---:|---:|---|
-| `https://5287f5b3.detectvideo.pages.dev/` | 200 | 54 | 153 | PASS |
+| `https://d52ae6fe.detectvideo.pages.dev/` | 200 | 54 | 153 | PASS |
 | `https://detectvideo.pages.dev/` | 200 | 54 | 153 | PASS |
 | `https://detectvideo.vip/` | 200 | 54 | 153 | PASS |
 | `https://www.detectvideo.vip/` | 200 | 54 | 153 | PASS |
