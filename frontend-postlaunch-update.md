@@ -4,7 +4,7 @@
 - Project: `detectvideo` / `detectvideo.vip`
 - Updated by: `frontend_bot`
 - Status: `[DONE_WITH_OWNER_PENDING_EMAIL_AND_ANALYTICS_TOKEN_HANDOFF]`
-- Deployment: `https://5f464c85.detectvideo.pages.dev`
+- Deployment: `https://f0090e2e.detectvideo.pages.dev`
 - Production domain verified: `https://detectvideo.vip`
 
 ## Summary
@@ -42,8 +42,8 @@ CHECK_PASS html=12 files=17
 ```text
 npx wrangler pages deploy dist --project-name=detectvideo --branch=main --commit-dirty=true
 
-Success! Uploaded 13 files (3 already uploaded)
-Deployment complete: https://5f464c85.detectvideo.pages.dev
+Success! Uploaded 1 files (15 already uploaded)
+Deployment complete: https://f0090e2e.detectvideo.pages.dev
 ```
 
 ## Remote verification evidence
@@ -51,10 +51,10 @@ Deployment complete: https://5f464c85.detectvideo.pages.dev
 Checked the Pages deployment and production custom domain with a browser user agent:
 
 ```text
-https://5f464c85.detectvideo.pages.dev/ status=200 hasGA=false hasCFBeacon=false hasPendingAnalytics=true hasNoGA=true
-https://detectvideo.vip/ status=200 hasGA=false hasCFBeacon=false hasPendingAnalytics=true hasNoGA=true
-https://detectvideo.vip/contact/ status=200 hasGA=false hasCFBeacon=false hasPendingAnalytics=true hasSupport=true hasPendingEmail=true hasNoGA=true
-https://detectvideo.vip/privacy/ status=200 hasGA=false hasCFBeacon=false hasPendingAnalytics=true hasNoGA=true
+https://f0090e2e.detectvideo.pages.dev/ status=200 hasGA=false hasClarity=false hasCFBeacon=false hasPendingAnalytics=true hasNoGA=true
+https://detectvideo.vip/ status=200 hasGA=false hasClarity=false hasCFBeacon=false hasPendingAnalytics=true hasNoGA=true
+https://detectvideo.vip/contact/ status=200 hasGA=false hasClarity=false hasCFBeacon=false hasPendingAnalytics=true hasSupport=true hasPendingEmail=true hasNoGA=true
+https://detectvideo.vip/privacy/ status=200 hasGA=false hasClarity=false hasCFBeacon=false hasPendingAnalytics=true hasNoGA=true
 ```
 
 ## Remaining owner actions / risks
