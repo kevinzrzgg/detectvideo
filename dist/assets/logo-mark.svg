@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">AI Video Detector logo mark</title>
+  <desc id="desc">Rounded deep ink video frame with action blue signal dot and verification check.</desc>
+  <rect width="64" height="64" rx="18" fill="#162B3A"/>
+  <path d="M18 18.5h28a7.5 7.5 0 0 1 7.5 7.5v12a7.5 7.5 0 0 1-7.5 7.5H18A7.5 7.5 0 0 1 10.5 38V26A7.5 7.5 0 0 1 18 18.5Z" fill="#F6F3EE"/>
+  <path d="M18 22.5h28a3.5 3.5 0 0 1 3.5 3.5v12a3.5 3.5 0 0 1-3.5 3.5H18a3.5 3.5 0 0 1-3.5-3.5V26a3.5 3.5 0 0 1 3.5-3.5Z" fill="#162B3A"/>
+  <path d="M24 25.5v13l11.5-6.5L24 25.5Z" fill="#F6F3EE"/>
+  <path d="M41 24.5h6M41 32h6M41 39.5h6" stroke="#F6F3EE" stroke-width="2" stroke-linecap="round" opacity=".72"/>
+  <circle cx="46.5" cy="18.5" r="7.5" fill="#1C7CFF"/>
+  <path d="M42.8 18.6l2.2 2.2 5.1-5.4" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M18 49.5h28" stroke="#1C7CFF" stroke-width="3" stroke-linecap="round" opacity=".9"/>
+</svg>
